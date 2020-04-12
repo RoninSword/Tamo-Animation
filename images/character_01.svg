@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="../main.css" type="text/css"?>
+<svg id="body" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241.56 269.79">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 0.43px;
+      }
+
+      .cls-3 {
+        stroke-width: 0.64px;
+      }
+    </style>
+  </defs>
+  <title>character_01</title>
+  <path class="cls-1" d="M260.42,91S-11.09,198.3,84.67,283.76,28.91,89.82,41.64,69.21s228.48-61.82,223.63-20C265.27,49.21,304.67,69.82,260.42,91Z" transform="translate(-40.37 -30.67)"/>
+  <g id="EyeR">
+    <circle id="EyeR-2" data-name="EyeR" class="cls-1" cx="145.11" cy="41.57" r="11.52"/>
+    <g id="PupilR">
+      <ellipse class="cls-1" cx="145.2" cy="41.27" rx="3.33" ry="11.21"/>
+    </g>
+    <g id="BrowR">
+      <line class="cls-2" x1="127.24" y1="24.97" x2="158.15" y2="24.97"/>
+    </g>
+  </g>
+  <g id="EyeL">
+    <circle id="EyeL-2" data-name="EyeL" class="cls-1" cx="84.9" cy="41.57" r="11.52"/>
+    <g id="PupilL">
+      <ellipse class="cls-1" cx="85.36" cy="41.27" rx="3.33" ry="11.21"/>
+    </g>
+    <g id="BrowL">
+      <line class="cls-2" x1="69.6" y1="24.97" x2="100.51" y2="24.97"/>
+    </g>
+  </g>
+  <g id="Mouth">
+    <g id="FangL">
+      <polygon class="cls-3" points="56.27 120.09 71.06 93.02 57.2 89.26 56.27 120.09"/>
+    </g>
+    <g id="FangR">
+      <polygon class="cls-2" points="92.78 125.63 100.17 94.79 85.39 94.79 92.78 125.63"/>
+    </g>
+    <g id="mouth-2" data-name="mouth">
+      <path class="cls-1" d="M93.76,117.09s21.82,12.12,59.39,7.27" transform="translate(-40.37 -30.67)"/>
+    </g>
+  </g>
+</svg>
